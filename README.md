@@ -1,5 +1,6 @@
 # NYCTaxiDemand
 NYC Taxi data analysis
+By Jiangkun Liu
 
 This project performs taxi demand analysis in NYC, the data were downloaded from http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 
